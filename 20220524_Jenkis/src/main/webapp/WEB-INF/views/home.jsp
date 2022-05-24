@@ -9,31 +9,7 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h1>ㅋㅋ 글 다 깨지쥬?</h1>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
-<h1>ㅋㅋ 글 다 깨지쥬?</h1>
-<h3>zzzzzzzzzzz</h3>
-<h3>zzzzzzzzzzz</h3>
+<h1>fuck man~~~</h1>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
