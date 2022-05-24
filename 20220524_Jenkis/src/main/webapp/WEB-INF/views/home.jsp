@@ -18,7 +18,6 @@
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
-<<<<<<< HEAD
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h2>Kim Woo Yeoun BABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABO</h2>
