@@ -9,7 +9,7 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<h1>fuck man~~~</h1>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
@@ -18,8 +18,12 @@
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
+<<<<<<< HEAD
 <h3>zzzzzzzzzzz</h3>
 <h3>zzzzzzzzzzz</h3>
 <h2>Kim Woo Yeoun BABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABOBABO</h2>
+=======
+<h1>ㅋㅋ 글 다 깨지쥬?</h1>
+>>>>>>> branch 'woo' of https://github.com/U-JunSang/JenkinsRemind.git
 </body>
 </html>
